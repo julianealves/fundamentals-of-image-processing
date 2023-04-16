@@ -1,2 +1,2 @@
-# fundamentals-of-image-processing
+# Fundamentals of image processing
 Projects from fundamentals of image processing class
